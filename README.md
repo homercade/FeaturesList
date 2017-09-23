@@ -1,6 +1,6 @@
-# FeaturesList
+# Features List
 
-This is the features list of the *"Faculty Monitoring System"*.
+This is the features list of the *"Faculty Performance Monitoring System"*.
 
 Further updates will be implemented based on the assessment of the professor.
 
